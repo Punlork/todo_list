@@ -1,0 +1,34 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.46.1
+Flutter extension: 3.46.0 (activated)
+
+App: Visual Studio Code
+Version: 1.70.0
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    FlutterDaemon
+
+Sat Aug 06 2022 [06:52:45 GMT+0700 (Indochina Time)] Log file started
+[6:52:45 AM] [FlutterDaemon] [Info] Spawning C:\Users\chekp\OneDrive\Documents\Flutter\flutter\bin\flutter.bat with args ["daemon"]
+[6:52:45 AM] [FlutterDaemon] [Info] ..  in C:\Users\chekp\OneDrive\Documents\Flutter\flutter
+[6:52:45 AM] [FlutterDaemon] [Info] ..  with {"toolEnv":{"FLUTTER_HOST":"VSCode","PUB_ENVIRONMENT":"vscode.dart-code"}}
+[6:52:46 AM] [FlutterDaemon] [Info]     PID: 6536
+[6:52:46 AM] [FlutterDaemon] [Info] ==> [{"id":"1","method":"emulator.getEmulators"}]
+[6:52:46 AM] [FlutterDaemon] [Info] Process C:\Users\chekp\OneDrive\Documents\Flutter\flutter\bin\flutter.bat terminated! null, SIGTERM
+[6:52:48 AM] [FlutterDaemon] [Info] <== [{"event":"daemon.connected","params":{"version":"0.6.1","pid":13904}}]
+[6:52:48 AM] [FlutterDaemon] [Info] ==> [{"id":"2","method":"device.enable"}]
+[6:52:48 AM] [FlutterDaemon] [Info] <== [{"event":"daemon.logMessage","params":{"level":"status","message":"Starting device daemon..."}}]
+[6:52:48 AM] [FlutterDaemon] [Info] <== [{"id":"2"}]
+[6:52:49 AM] [FlutterDaemon] [Info] <== [{"id":"1","result":[{"id":"Pixel_2_API_31","name":"Pixel 2 API 31","category":"mobile","platformType":"android"},{"id":"Pixel_4_API_31","name":"Pixel 4 API 31","category":"mobile","platformType":"android"},{"id":"flutter_emulator","name":"flutter emulator","category":"mobile","platformType":"android"}]}]
+[6:52:52 AM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"windows","name":"Windows","platform":"windows-x64","emulator":false,"category":"desktop","platformType":"windows","ephemeral":false,"emulatorId":null,"sdk":"Microsoft Windows [Version 10.0.22000.832]","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":true,"hardwareRendering":true,"startPaused":true}}}]
+[6:52:52 AM] [FlutterDaemon] [Info] ==> [{"id":"3","method":"daemon.getSupportedPlatforms","params":{"projectRoot":"C:\\Users\\chekp\\OneDrive\\Documents\\OneSala\\Flutter Bloc Projects\\todo_list"}}]
+[6:52:52 AM] [FlutterDaemon] [Info] <== [{"id":"3","result":{"platforms":["linux","macos","windows","ios","android","web"]}}]
+[6:52:52 AM] [FlutterDaemon] [Info] <== [{"event":"device.added","params":{"id":"edge","name":"Edge","platform":"web-javascript","emulator":false,"category":"web","platformType":"web","ephemeral":false,"emulatorId":null,"sdk":"Microsoft Edge 103.0.1264.77","capabilities":{"hotReload":true,"hotRestart":true,"screenshot":false,"fastStart":false,"flutterExit":false,"hardwareRendering":true,"startPaused":true}}}]
+[6:54:03 AM] [FlutterDaemon] [Info] ==> [{"id":"4","method":"daemon.shutdown"}]
+[6:54:03 AM] [FlutterDaemon] [Info] <== [{"id":"4"}]
+Sat Aug 06 2022 [06:54:03 GMT+0700 (Indochina Time)] Log file ended

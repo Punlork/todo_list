@@ -1,0 +1,17 @@
+!! PLEASE REVIEW THIS LOG FOR SENSITIVE INFORMATION BEFORE SHARING !!
+
+Dart Code extension: 3.46.1
+Flutter extension: 3.46.0 (activated)
+
+App: Visual Studio Code
+Version: 1.70.0
+Platform: win
+
+HTTP_PROXY: undefined
+NO_PROXY: undefined
+
+Logging Categories:
+    DAP
+
+Sat Aug 06 2022 [06:52:45 GMT+0700 (Indochina Time)] Log file started
+Sat Aug 06 2022 [06:54:03 GMT+0700 (Indochina Time)] Log file ended
